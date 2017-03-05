@@ -66,7 +66,7 @@
 
 ##Part II - Start using Ansible 
 ###connect back to acs server
->vagrant sh acs
+>vagrant ssh acs
 
 ###create directory called 'excercise1'
 >mkdir excercise1
